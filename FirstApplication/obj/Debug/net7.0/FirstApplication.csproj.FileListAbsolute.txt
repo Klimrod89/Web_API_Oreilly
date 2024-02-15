@@ -1,0 +1,50 @@
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/appsettings.Development.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/appsettings.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/FirstApplication
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/FirstApplication.deps.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/FirstApplication.runtimeconfig.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/FirstApplication.dll
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/bin/Debug/net7.0/FirstApplication.pdb
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.AssemblyInfoInputs.cache
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.AssemblyInfo.cs
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.csproj.CoreCompileInputs.cache
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets/msbuild.FirstApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets/msbuild.build.FirstApplication.props
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FirstApplication.props
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FirstApplication.props
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/scopedcss/bundle/FirstApplication.styles.css
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.dll
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/refint/FirstApplication.dll
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.pdb
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/FirstApplication.genruntimeconfig.cache
+/Users/ymac/Library/Mobile Documents/com~apple~CloudDocs/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/obj/Debug/net7.0/ref/FirstApplication.dll
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\appsettings.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\FirstApplication.exe
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\FirstApplication.deps.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\FirstApplication.runtimeconfig.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\FirstApplication.dll
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\bin\Debug\net7.0\FirstApplication.pdb
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.AssemblyInfo.cs
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets\msbuild.FirstApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApplication.props
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApplication.props
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApplication.props
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\scopedcss\bundle\FirstApplication.styles.css
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.dll
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\refint\FirstApplication.dll
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.pdb
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\FirstApplication.genruntimeconfig.cache
+C:\Users\kouto\iCloudDrive\Code\DotNetCLI\OReilly\WebAPI\FirstApplication\obj\Debug\net7.0\ref\FirstApplication.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LlstPpPNoOPJ+paIbv6vrjyRSCdH6jrf0Mcdb4TlBLHk9nP9OtziC2lRapNXszkTxGkEqW0KjoCFgS7SafXhw==",
+  "success": true,
+  "projectFilePath": "/Users/ymac/Code/DotNetCLI/OReilly/WebAPI/CRUDApplication/CRUDApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
