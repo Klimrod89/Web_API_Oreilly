@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fo7ZOP/LNfMrxZFC6NpK9P4PqiFZJwB9g1t69ZAGB2P2vUwTASo+j24P3PlMwRoPzTZwgQo3ZZoektmkRc0cKA==",
+  "dgSpecHash": "quC1ZvH9j/DV6UacK1D1IBcpbNrpYagzzCqsY7ZDBHFaPO1nEo8OW3dzQoCbt0jbUzo1Bpf3s2gH+fthW/t3YQ==",
   "success": true,
   "projectFilePath": "/Users/ymac/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/FirstApplication.csproj",
-  "expectedPackageFiles": [
-    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "/Users/ymac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

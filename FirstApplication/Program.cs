@@ -23,7 +23,7 @@ var people = new List<Person>
 {
     new("Tom", "Hanks"),
     new("Denzel", "Washington"),
-    new("Leondardo", "DiCaprio"),
+    new("Leonardo", "DiCaprio"),
     new("Al", "Pacino"),
     new("Morgan", "Freeman"),
     new("Mohamed", "Chitou")
