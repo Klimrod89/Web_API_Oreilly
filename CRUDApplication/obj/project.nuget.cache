@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fPtnJxzTf2cSagYOBONPgdqhN7OLC2WIgBgd2ZovWnXF5Wk8FDObcUsVpzvxpv8vcVbl3BLPDNRJv4nLZAXkXA==",
+  "dgSpecHash": "m3XwZX2vw4sdR44rTgZObnURDGOStEFN4erv0SW3fo9OYUZkDE58NMydLZt+g4Wwu2dmxSqKLxszg0g48MlTZQ==",
   "success": true,
   "projectFilePath": "/Users/ymac/Code/DotNetCLI/OReilly/WebAPI/CRUDApplication/CRUDApplication.csproj",
   "expectedPackageFiles": [],

@@ -4,7 +4,9 @@ using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Registration of services to IServiceCollection
 builder.Services.AddHttpLogging(opts => opts.LoggingFields = HttpLoggingFields.RequestProperties);
+// Configuration of services already in IConfiguration (Logging)
 builder.Logging.AddFilter("Microsoft.AspNetCore.HttpLogging", LogLevel.Information);
 
 var app = builder.Build();
@@ -17,7 +19,7 @@ if(app.Environment.IsDevelopment())
 
 //app.UseRouting();
 app.UseExceptionHandler("/error");
-
+app.UseHttpsRedirection();
 
 var people = new List<Person>
 {

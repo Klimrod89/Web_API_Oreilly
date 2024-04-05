@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "quC1ZvH9j/DV6UacK1D1IBcpbNrpYagzzCqsY7ZDBHFaPO1nEo8OW3dzQoCbt0jbUzo1Bpf3s2gH+fthW/t3YQ==",
+  "dgSpecHash": "+vzQUezGNIxkwqtWLZkyGPdQJ1FPXpLPvtk5opel5JWftMO23uOOUoZBvOuiEljF9lLc85tnmFV9aZYnywLJSw==",
   "success": true,
   "projectFilePath": "/Users/ymac/Code/DotNetCLI/OReilly/WebAPI/FirstApplication/FirstApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ymac/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
